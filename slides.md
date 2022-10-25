@@ -15,7 +15,7 @@ layout: cover
 
 # 未来を見据えた CI/CD
 
-～ 10年後も使える ビルド・テスト パイプライン ～
+<p class="text-xl text-slate-400">～ 10年後も使える ビルド・テスト パイプライン ～</p>
 
 _Shota Nonaka_<br>_CASAREAL,inc._<br>_Nov. 27, 2022_
 
@@ -23,13 +23,9 @@ _Shota Nonaka_<br>_CASAREAL,inc._<br>_Nov. 27, 2022_
 h1 {
   -webkit-text-fill-color: unset;
 }
-h1 + p {
-  font-size: x-large;
-  opacity: 0.8 !important;
-  margin-bottom: 2rem !important;
-}
 h1 + p + p {
-  line-height: 1.5em;
+  margin-top: 2rem;
+  line-height: 1.8em;
 }
 </style>
 
