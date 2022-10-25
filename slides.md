@@ -40,7 +40,7 @@ layout: center
     <img src="/images/casareal.png" class="h-6 mr-2"/>
     <p class="text-sm">株式会社カサレアル</p>
   </div>
-  <p class="text-xs" style="margin-top: 0;">プロフェッショナルソリューション技術部&emsp;Cloud Native Technical Officer</p>
+  <p class="text-xs" style="margin-top: 0;">プロフェッショナルソリューション技術部&emsp;Cloud Native Chief Architect</p>
   <p class="text-center text-3xl" style="margin-bottom: 0;">野中 翔太</p>
   <p class="text-center text-xs" style="margin-top: 0;"><i>Nonaka Shota</i></p>
   <logos-aws class="text-3xl"/>
@@ -55,6 +55,50 @@ layout: center
 </div>
 
 ---
+layout: default
+title: 会社概要
+---
+
+<h1 class="flex items-center">
+  <img src="/images/casareal.png" class="h-12 mr-2"/>
+  <p>株式会社カサレアル</p>
+</h1>
+
+|          |                                                                                                              |
+| -------- | ------------------------------------------------------------------------------------------------------------ |
+| 設立     | 1999年7月2日                                                                                                 |
+| 資本金   | 5,000万円                                                                                                    |
+| 従業員数 | 75名（2022年4月現在）                                                                                        |
+| 代表者   | 代表取締役社長　窪 伸一郎                                                                                    |
+| 株主構成 | テクマトリックス株式会社（東京証券取引所市場第一部：3762）                                                   |
+| 所在地   | 東京都港区三田3-11-24 国際興業三⽥第2ビル<br>※ 2022年12月に移転予定： 東京都港区港南1-2-70 品川シーズンテラス |
+
+---
+layout: center
+class: text-center text-2xl
+---
+
+# 社名の由来
+
+<img src="/images/casareal.png" class="h-8 mx-auto">
+
+スペイン語で「**真の家**」という意味を持ちます
+
+**ここに多くの人々が集まり**<br>
+**世の中に貢献できる多くの技術者と事業者を育て**<br>
+**世の中を支えるシステムを構築していく**
+
+という意味が込められています
+
+これはカサレアルの目標でもあります
+
+<style>
+  p {
+    line-height: 2;
+  }
+</style>
+
+---
 layout: center
 class: text-center
 title: 会社紹介
@@ -65,39 +109,77 @@ title: 会社紹介
   <p>株式会社カサレアル</p>
 </h1>
 
-<h3 class="mb-3">- MISSION -</h3>
-
-<v-click>
-
-**世の中に貢献できる多くの技術者と事業者を育て**<br>
-**世の中を支えるシステムを構築していく**
-
-</v-click>
-
 <h3 class="my-3">- SERVICE -</h3>
 
 <v-click>
 
 **３つの事業をワンストップで提供**
 
-<img src="/images/casareal_service.drawio.svg" class="m-auto"/>
+<img src="/images/casareal_service.drawio.svg" class="mx-auto"/>
 </v-click>
 
 ---
-layout: center
-class: text-3xl
+layout: image-right
+image: images/ls_service_bg.jpg
+class: text-2xl
+---
+
+# ラーニングサービス
+
+**研修事業**
+
+* オープン研修
+* カスタムメイド研修
+* 新入社員研修
+* 技術支援/内製化支援
+
+<!--
+研修事業として、Javaなどの開発言語を中心に1社向け、<br>
+あるいはオープンで様々なコースを展開しており、<br>
+ほぼ毎日研修コースを開催しています。
+-->
+
+---
+layout: image-right
+image: images/ps_service_bg.jpg
+class: text-2xl
 ---
 
 # クラウドネイティブ推進支援サービス
 
-<v-clicks>
+**プロフェッショナルサービス**
 
-* クラウドインフラ環境構築支援
-* パイプライン自動化支援
-* オンプレ移行 マイクロサービス設計支援
-* クラウドネイティブ道場（トレーニングコース）の提供
+* クラウドネイティブ推進支援
+* DevOps 環境構築支援
+* 開発プロセスやテストの自動化支援
+* クラウドネイティブ道場
 
-</v-clicks>
+<!--
+もともとはツールを活かした開発プロセスやテストの自動化支援、<br>
+関連ツールのトレーニングを中心にサービスを展開してたのですが、
+
+最近は、お客様もオンプレからクラウドにシフトされるケースが増えてきたので、<br>
+5年ほど前より軸足をクラウドに置いて、<br>
+クラウドネイティブ推進支援サービスとして提供を開始しました。
+-->
+
+---
+layout: image-right
+image: images/bs_service_bg.jpg
+class: text-2xl
+---
+
+# ビジネスソリューション
+
+**受託開発・SES**
+
+* システム構築サービス
+* 開発支援サービス
+* パッケージサービス
+
+<!--
+受託開発やSESといったいわゆる開発支援サービスになります
+-->
 
 ---
 layout: default
