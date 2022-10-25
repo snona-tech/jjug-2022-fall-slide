@@ -88,7 +88,7 @@ layout: center
 class: text-3xl
 ---
 
-# クラウドネイティブ技術支援サービス
+# クラウドネイティブ推進支援サービス
 
 <v-clicks>
 
