@@ -582,7 +582,7 @@ class: text-2xl
 
 | <carbon-logo-github/>GitHub |                                                                     |
 | --------------------------- | ------------------------------------------------------------------- |
-| Repository                  | [casa-snona/dagger-demo](https://github.com/casa-snona/dagger-demo) |
+| Repository                  | [snona-tech/dagger-demo](https://github.com/snona-tech/dagger-demo) |
 
 <style>
 table {
