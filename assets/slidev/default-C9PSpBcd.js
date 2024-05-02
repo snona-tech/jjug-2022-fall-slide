@@ -1,0 +1,1 @@
+import{o,b as l,f as s}from"../modules/vue-D-wO8WxY.js";import{b as t}from"../index-BYZ0yBO1.js";const r={},a={class:"slidev-layout default"};function n(e,c){return o(),l("div",a,[s(e.$slots,"default")])}const u=t(r,[["render",n],["__file","/home/runner/work/jjug-2022-fall-slide/jjug-2022-fall-slide/node_modules/@slidev/client/layouts/default.vue"]]);export{u as I};
